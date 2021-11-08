@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color:gainsboro;
+}
+
+table {
+  border: 2px solid darkorchid;
+  width: 650px;
+  margin: auto;
+  /*border-collapse: collapse;*/
+}
+
+h1, h2, th {
+text-align: center 
+} 
+
+thead {
+  background-color: plum;
+}
+
+td {
+  border-top: 1px solid darkorchid;
+}
+.title {
+  color: rebeccapurple
+}
+
+.heading {
+  background-color: rgb(218, 151, 218);
+}
+
+.code {
+  font-family: monospace;
+  background-color: beige;
+}
+
+.border {
+  box-sizing: borderbox;
+} 
